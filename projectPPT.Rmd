@@ -1,6 +1,6 @@
 ---
-title: "projectPPT"
-author: "Ameera Attiah"
+title: "Crime"
+author: "Ameera Attiah, Jana Abuhantash, and Ahmad "
 date: "2023-11-18"
 output: powerpoint_presentation
 ---
@@ -9,27 +9,52 @@ output: powerpoint_presentation
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-## R Markdown
-
-This is an R Markdown presentation. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
-
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document.
-
 ## Problem Statement and Background
 
-- Bullet 1
-- Bullet 2
-- Bullet 3
+Problem Statement:
+Your problem statement goes here.
 
-## Slide with R Output
+Background:
+Provide the necessary background information here.
 
-```{r cars, echo = TRUE}
-summary(cars)
+## Methods Explored
+
+Considered Methods:
+List and briefly describe the methods you considered.
+
+Method Selection:
+Discuss why you chose the method/tool you did.
+
+## The Methods/Tools Used
+
+Method/Tool Used:
+Describe the chosen method/tool.
+
+Rationale:
+Explain the rationale behind your choice.
+
+
+## Results 
+
+Preliminary Results:
+Present your initial findings or data.
+```{r}
+
 ```
 
-## Slide with Plot
+Further Results:
+More results or visualizations.
+```{r}
 
-```{r pressure}
-plot(pressure)
 ```
+
+
+## Lessons Learned and Future Plans
+
+Lessons Learned:
+Discuss the key learnings or insights from your project.
+
+Future Plans:
+Outline your future steps or plans to mitigate challenges.
+
 
