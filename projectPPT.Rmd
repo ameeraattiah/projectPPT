@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "projectPPT"
 author: "Ameera Attiah"
 date: "2023-11-18"
 output: powerpoint_presentation
@@ -15,7 +15,7 @@ This is an R Markdown presentation. Markdown is a simple formatting syntax for a
 
 When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document.
 
-## Slide with Bullets
+## Problem Statement and Background
 
 - Bullet 1
 - Bullet 2
