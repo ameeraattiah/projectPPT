@@ -1,5 +1,5 @@
 ---
-title: "Crime"
+title: "Crimes in the US"
 author: "Ameera Attiah, Jana Abuhantash, and Ahmad "
 date: "2023-11-18"
 output: powerpoint_presentation
@@ -9,13 +9,16 @@ output: powerpoint_presentation
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-## Problem Statement and Background
+## Problem Statement
 
-Problem Statement:
-Your problem statement goes here.
+"Analyzing Trends and Determinants of Crime Rates in the United States to Inform Policy and Prevention Strategies"
 
-Background:
-Provide the necessary background information here.
+In recent years, the United States has faced complex challenges related to crime. Understanding the trends, causes, and distribution of crime across different regions is crucial for developing effective policies and prevention strategies. This project aims to analyze various factors influencing crime rates, including economic, social, and environmental variables, to identify key drivers and potential areas for intervention.
+
+## Background
+
+U.S. crime rates have varied, decreasing in the 1990s and rising recently in some areas. These trends differ regionally due to factors like urbanization and economic conditions. Socioeconomic issues, the opioid crisis, and drug trafficking also influence crime rates. Technological advances in law enforcement have transformed crime prevention and investigation. However, public perception of crime, often shaped by media, may not always reflect actual statistics.
+
 
 ## Methods Explored
 
@@ -49,12 +52,18 @@ More results or visualizations.
 ```
 
 
-## Lessons Learned and Future Plans
+## Lessons Learned
 
-Lessons Learned:
-Discuss the key learnings or insights from your project.
+- Analyzed crime trends to identify patterns and anomalies over time.
+- Investigated the influence of poverty, education, and unemployment on crime rates.
+- Evaluated the success of different policing strategies in crime reduction.
+- Faced challenges in gathering accurate crime data.
+- The benefits of integrating insights from various disciplines.
 
-Future Plans:
-Outline your future steps or plans to mitigate challenges.
+## Future Plans
 
-
+- Explore specific crime types and demographics in further detail.
+- Suggest policy and law enforcement improvements.
+- Collaborating with field experts for practical application and validation
+- Utilize advanced data analysis techniques.
+- Assessing the implications of findings on public policy and crime prevention
